@@ -1,5 +1,5 @@
 # LPIC-1
-LPIC-1 version 5.0 Exam Preparation
+LPIC-1 version 5.0 Preparação para o Exame
 
 Fontes:
 * Preparatório para Certificação Linux LPIC-1 | Atualizado V5 - https://www.udemy.com/course/curso-online-certificacao-linux-lpic1-comptia

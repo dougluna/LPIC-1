@@ -6,6 +6,6 @@ LPIC-1 version 5.0 Preparação para o Exame
 * GNU Bash Manual - https://www.gnu.org/software/bash/manual/
 * Learning LPI - https://learning.lpi.org/pt/learning-materials/101-500/
 
-## Mapa Mental
+## Mapa Mental 101-500
 
-
+![Mapa Mental Exame 101](/Mapa%20mental%20Exame%20101.PNG)
